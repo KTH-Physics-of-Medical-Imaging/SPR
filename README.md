@@ -1,6 +1,6 @@
-# 
+# Data and code for 'Deep learning estimation of proton stopping power with photon-counting computed tomography' (2024)
 
-This repository contains data and code for 'Deep learning estimation of proton stopping power with photon-counting computed tomography', and contains scripts for converting XCAT phantoms to the format required by the PCCT simulation software, computation of ground truth SPR maps, neural network and results calculation. 
+This repository contains scripts for converting XCAT phantoms to the format required by the PCCT simulation software, computation of ground truth SPR maps, neural network and results calculations. 
 
 The network 'sr3_alt' is developed by Dennis Hein and builds upon a network presented in "Score-based generative modeling through stochastic differential equations" by Song et al. (2021).
 
